@@ -1,0 +1,50 @@
+h1 {text-align: center;}
+a {color: black;}
+h3{text-align: center;}
+h2 {text-align: center;}
+h1 {color: black;}
+
+
+
+
+ img { padding: 10px;
+ border: 1px solid #000000;
+
+ box-shadow: 0px 0px 30px black;
+ border-color: black;
+  }
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+      html, body {
+        height: 50%;
+        width: 50%;
+      }
+      body {
+        background: #F3F781 -webkit-linear-gradient(right, #FAAC58 0%,#F3F781 25%, #F3F781 50%, #FAAC58 75%, #F3F781 100%);
+        background: #F3F781 -moz-linear-gradient(left, #FAAC58 0%, #F3F781 25%, #F3F781 50%, #F3F781 75%, #FAAC58 100%);
+        background: #F3F781 -ms-linear-gradient(right,#FAAC58 0%, #F3F781 25%, #F3F781 50%, #F3F781 75%, #F3F781 100%);
+        background: #F3F781 -o-linear-gradient(right, #FAAC58 0%, #F3F781 25%, #F3F781 50%, #F3F781 75%, #F3F781 100%);
+        background: #F3F781 linear-gradient(right, #FAAC58 0%, #F3F781 25%, #F3F781 50%, #FAAC58 75%, #F3F781 100%);
+        background-size: 300% 300%;
+         -webkit-transition: all 2s linear;
+        -moz-transition: all 2s linear;
+        -ms-transition: all 2s linear;
+        -o-transition: all 2s linear;
+        transition: all 10s linear;
+
+    }
+      body:hover {
+        background-position: 100%;
+      }
+
+    </style>
+  </head>
+  <body>

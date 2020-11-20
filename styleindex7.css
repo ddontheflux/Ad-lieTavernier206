@@ -1,0 +1,47 @@
+h1 {text-align: center;}
+a {text-align: center;}
+a {color: black;}
+h3 {text-align: center; }
+
+
+img { padding: 10px;
+ border: 1px solid #8904B1;
+ 
+ box-shadow: 0px 0px 30px #8904B1;
+ border-color: #240B3B;
+  }
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+      html, body {
+        height: 50%;
+        width: 50%;
+      }
+      body {
+        background: black -webkit-linear-gradient(left, #4B088A 0%,#240B3B 25%,#240B3B  50%, #4B088A 75%, #240B3B 100%);
+        background: black -moz-linear-gradient(right, #4B088A 0%, #240B3B 25%,#240B3B  50%,#240B3B  75%,#4B088A 100%);
+        background: black -ms-linear-gradient(left, #4B088A 0%,#240B3B  25%,#240B3B  50%,#240B3B  75%,#240B3B   100%);
+        background: black -o-linear-gradient(right, #4B088A 0%,#240B3B  25%,#240B3B  50%, #240B3B 75%, #240B3B 100%);
+        background: black linear-gradient(right, #4B088A 0%,#240B3B  25%, #240B3B 50%, #4B088A 75%,#240B3B 100%);
+        background-size: 500% 500%;
+          -webkit-transition: all 2s linear;
+        -moz-transition: all 2s linear;
+        -ms-transition: all 2s linear;
+        -o-transition: all 2s linear;
+        transition: all 10s linear;
+        	
+
+    }
+      body:hover {
+        background-position: 100%;
+      }
+
+    </style>

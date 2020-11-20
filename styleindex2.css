@@ -1,0 +1,60 @@
+
+
+h1 {text-align: center;}
+h1 {color: #01DF01; }
+
+h3 { color: #64FE2E; }
+h3{ text-align: center; }
+
+h2 {text-align: center;}
+h2 {color: #01DF01}
+
+a { color: #64FE2E; }
+
+
+
+ img { padding: 10px;
+ border: 1px solid #CCC;
+ box-shadow: 0px 0px 30px #2EFE2E;
+ border-color: #2EFE2E;
+  }
+
+
+
+
+
+<style type="text/css">
+      html, body {
+        height: 50%;
+        width: 50%;
+      }
+      body {
+        background: black -webkit-linear-gradient(left, green 0%,black 25%, black 50%, green 75%, black 100%);
+        background: black -moz-linear-gradient(right, green 0%, black 25%, black 50%, black 75%, green 100%);
+        background: black -ms-linear-gradient(right, green 0%, black 25%, black 50%, black 75%, black 100%);
+        background: black -o-linear-gradient(right, green 0%, black 25%, black 50%, black 75%, black 100%);
+        background: black linear-gradient(right, green 0%, black 25%, black 50%, green 75%, black 100%);
+        background-size: 300% 300%;
+             -webkit-transition: all 2s linear;
+        -moz-transition: all 2s linear;
+        -ms-transition: all 2s linear;
+        -o-transition: all 2s linear;
+        transition: all 10s linear;
+    }
+      body:hover {
+        background-position: 100%;
+      }
+
+    </style>
+  </head>
+  <body>
+
+
+
+
+
+
+		
+	
+	
+

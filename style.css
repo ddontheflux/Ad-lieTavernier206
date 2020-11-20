@@ -1,0 +1,75 @@
+<style type="text/css">
+			html, body {
+				height: 50%;
+				width: 50%;
+			}
+			body {
+				background: red -webkit-linear-gradient(left, yellow 0%,red 25%, purple 50%, red 75%, red 100%);
+				background: red -moz-linear-gradient(left, yellow 0%, red 25%, purple 50%, purple,red 75%, yellow 100%);
+				background: red -ms-linear-gradient(left, yellow 0%, red 25%, purple 50%, red 75%, red 100%);
+				background: red -o-linear-gradient(left, yellow 0%, red 25%, purple 50%, purple 75%, red 100%);
+				background: red linear-gradient(left, yellow 0%, red 25%, purple 50%, yellow 75%, red 100%);
+				background-size: 300% 300%;
+				-webkit-transition: all 2s linear;
+				-moz-transition: all 2s linear;
+				-ms-transition: all 2s linear;
+				-o-transition: all 2s linear;
+				transition: all 10s linear;
+			}
+			body:hover {
+				background-position: 100%;
+			}
+
+		</style>
+	</head>
+	<body>
+
+
+
+
+
+
+
+p {  
+
+        color: yellow
+                                ; }
+
+h3 { 
+
+                color: black; }
+
+                h1 { color: black; }
+
+                h2 { color:yellow ; }
+
+                h4 {color: black;}
+h1 {text-align: center;}
+
+ body{background-color: red}
+
+
+ h5 {align-content: right;}
+
+ h1 {animation-name: right}
+
+ h6 {align-content: right;}
+ p {text-align: center;}
+ 
+ a { color: yellow; }
+
+ a { text-align: center; }
+
+ img { padding: 10px;
+ border: 1px solid #CCC;
+ box-shadow: 0px 0px 17px #BBB;
+ border-color: yellow;
+  }
+
+ h2 {text-align: center; }
+
+ h1 {text-align: center;}
+
+h3 {text-align: center; }
+
+h5 { color: purple; }
